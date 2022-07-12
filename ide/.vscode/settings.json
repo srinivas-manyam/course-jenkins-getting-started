@@ -4,14 +4,14 @@
     "runWith": "pipelines-7080",
     "name": "ide",
     "isDefault": true
-  }
-},
-  "jenkins-runner.hostConfigs": {
+    }
+  },
+   "jenkins-runner.hostConfigs": {
    "pipelines-7080": {
     "url": "http://localhost:7080",
     "user": "srinivas",
     "password": "srinivas",
     "useCrumbIssuer": true
-   }
- }
+     }
+  }
 }
